@@ -1,0 +1,11 @@
+.misosoup,
+.stock,
+.asparagus{
+    height: auto;
+    width:500px;
+}
+
+.title {
+    background-color: black;
+    color:white;
+}
