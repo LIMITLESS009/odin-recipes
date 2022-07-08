@@ -1,3 +1,8 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
 .misosoup,
 .stock,
 .asparagus{
@@ -6,6 +11,17 @@
 }
 
 .title {
+    border: 2px solid blue;
     background-color: black;
     color:white;
+}
+
+ul, p, ol {
+    padding: 30px;
+    margin:10px;
+    border: 2px solid blue;
+}
+
+h2 {
+    text-decoration: underline;
 }
