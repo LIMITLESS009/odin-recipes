@@ -25,3 +25,14 @@ ul, p, ol {
 h2 {
     text-decoration: underline;
 }
+
+div {
+    display:flex;
+    justify-content: center;
+}
+
+.twitter,
+.in {
+    height: auto;
+    width: 40px;
+}
